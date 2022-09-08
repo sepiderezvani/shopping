@@ -1,0 +1,21 @@
+.product{
+    width: 200px;
+    height: 200px;
+    border-radius: 1rem;
+    background-color: coral;
+    color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 1.5rem;
+    flex-direction: column;
+}
+.btn{
+    border: none;
+    font-size: 1rem;
+    color: orangered;
+    background-color: cornsilk;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+}

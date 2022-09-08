@@ -1,0 +1,17 @@
+.add-form-product{
+    display: flex;
+    justify-content: center;
+
+}
+.form-control input{
+border: none;
+border-bottom: 2px solid orangered;
+background-color: transparent;
+outline: none;
+}
+.btn-form{
+    border: none;
+    color: orangered;
+    background-color: transparent;
+    outline: none;
+}
